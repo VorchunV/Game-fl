@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2C4C1A26-7CCD-4030-9F15-723330356000"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D4F0DE1-6BD2-4FB2-8017-95D0B9CD29A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game fl/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "397565F5-F35B-4F04-9AA8-12DC56DDC5BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game fl/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FE14C63-710D-41F2-9515-9DA65AB49351"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game fl/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7B87A60-E03D-4CBA-9FF0-79AD0E80F482"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game fl/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "GameViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B7B87A60-E03D-4CBA-9FF0-79AD0E80F482 - 25eb8baa5e1b6077"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Game_fl.GameViewController.__deallocating_deinit"
+                  moduleName = "Game fl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varvarafomina/Desktop/Game%20fl/Game%20fl/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B7B87A60-E03D-4CBA-9FF0-79AD0E80F482 - ecee2d47406d0014"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Game_fl.GameViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Game_fl.GameViewController"
+                  moduleName = "Game fl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varvarafomina/Desktop/Game%20fl/Game%20fl/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B7B87A60-E03D-4CBA-9FF0-79AD0E80F482 - ee59aa628c300dec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Game_fl.GameViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Game_fl.GameViewController"
+                  moduleName = "Game fl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varvarafomina/Desktop/Game%20fl/Game%20fl/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "B7B87A60-E03D-4CBA-9FF0-79AD0E80F482 - f9b9571b0fe3bbc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Game_fl.GameViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Game_fl.GameViewController&gt;"
+                  moduleName = "Game fl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varvarafomina/Desktop/Game%20fl/Game%20fl/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B7B87A60-E03D-4CBA-9FF0-79AD0E80F482 - b4ea606e4d456fb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Game_fl.GameViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Game_fl.GameViewController&gt;"
+                  moduleName = "Game fl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varvarafomina/Desktop/Game%20fl/Game%20fl/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67C00E59-60D9-4019-8D29-022110A73A38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game fl/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "67C00E59-60D9-4019-8D29-022110A73A38 - 25eb8baa5e1b6077"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Game_fl.GameViewController.__deallocating_deinit"
+                  moduleName = "Game fl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varvarafomina/Desktop/Game%20fl/Game%20fl/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "67C00E59-60D9-4019-8D29-022110A73A38 - ecee2d47406d0014"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Game_fl.GameViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Game_fl.GameViewController"
+                  moduleName = "Game fl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varvarafomina/Desktop/Game%20fl/Game%20fl/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "67C00E59-60D9-4019-8D29-022110A73A38 - ee59aa628c300dec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Game_fl.GameViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Game_fl.GameViewController"
+                  moduleName = "Game fl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varvarafomina/Desktop/Game%20fl/Game%20fl/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "67C00E59-60D9-4019-8D29-022110A73A38 - f9b9571b0fe3bbc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Game_fl.GameViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Game_fl.GameViewController&gt;"
+                  moduleName = "Game fl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varvarafomina/Desktop/Game%20fl/Game%20fl/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "67C00E59-60D9-4019-8D29-022110A73A38 - b4ea606e4d456fb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Game_fl.GameViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Game_fl.GameViewController&gt;"
+                  moduleName = "Game fl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varvarafomina/Desktop/Game%20fl/Game%20fl/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
